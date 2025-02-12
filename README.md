@@ -28,14 +28,13 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Video/gif Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<!--(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.absterdraws.com%2Fnew-gallery&psig=AOvVaw2r9nHu2NudEGumOOgEd7jW&ust=1739415196348000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjy192QvYsDFQAAAAAdAAAAABAE) --> 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
